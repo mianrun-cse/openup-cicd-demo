@@ -1,4 +1,4 @@
-# openup-cicd-demo
+# openup-cicd-demo-누르
 
 > 2026-05-07 Open UP × 고려대 입문형 강의 — **블록 2 실습용 데모 레포**
 >
